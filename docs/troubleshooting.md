@@ -3,7 +3,7 @@ Use the information in this topic to solve common issues in Common Interface Ser
 To make sure that CIS receives and displays data, confirm the Java directory configuration.
 
 ## Part 1
-<details>
+<details open>
 <summary>Why can't I push my changes?</summary>
  
 Make sure you:
