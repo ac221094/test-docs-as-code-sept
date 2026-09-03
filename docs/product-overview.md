@@ -4,7 +4,7 @@ BMC Project Planner, a cloud-based project management application, helps teams t
 
 By centralizing project information in the cloud, the application enables teams to stay aligned, make informed decisions, and complete projects more effectively.
 
-Can we bold the words that describe the key capabilities to emphasize them?
+*Can we bold the words that describe the key capabilities to emphasize them?*
 
 This application is available in two variants, basic and advanced. Use the variant that suits your business needs.
 > [!TIP]
@@ -17,7 +17,7 @@ The application provides the following benefits:
 - Streamlined communication
 - Increased productivity
 
-Add ordered list instead of bulleted list.
+*Add ordered list instead of bulleted list.*
 
 ## Key capabilities
 The application provides the following key capabilities:
