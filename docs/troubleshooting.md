@@ -1,5 +1,6 @@
-Use the information in this topic to solve common issues in Common Interface Server.
+MB: Add heading 1 ( title to a page )
 
+Use the information in this topic to solve common issues in Common Interface Server.
 To make sure that CIS receives and displays data, confirm the Java directory configuration.
 
 ## Part 1
@@ -24,7 +25,7 @@ Make sure you:
 | Error 2 | Steps |
  
 </details
- 
+MB: Close the angle bracket in details line 27
  
  
  
