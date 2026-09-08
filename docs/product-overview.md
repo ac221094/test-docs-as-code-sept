@@ -39,3 +39,5 @@ The application provides the following key capabilities:
 ![](/Images/Project%20management.png)
 
 For installing this application, see [Installation](installation.md).
+
+To learn about where to start with this product, see [Getting started](getting-started.md).
