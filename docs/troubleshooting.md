@@ -17,6 +17,8 @@ Make sure you:
  
 </details> 
 
+### Part 1.1
+
 ## Part 2
 <details>
 <summary>How to resolve errors?</summary>
