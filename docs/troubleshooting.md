@@ -3,6 +3,8 @@ MB: Add heading 1 ( title to a page )
 Use the information in this topic to solve common issues in Common Interface Server.
 To make sure that CIS receives and displays data, confirm the Java directory configuration.
 
+Sample text for testing branch functionality.
+
 ## Part 1
 <details open>
 <summary>Why can't I push my changes?</summary>
@@ -14,6 +16,8 @@ Make sure you:
 3. Have permission to push to the repository.
  
 </details> 
+
+### Part 1.1
 
 ## Part 2
 <details>
